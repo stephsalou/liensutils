@@ -132,3 +132,14 @@ https://realpython.com/python-speech-recognition/
 
 https://djangopackages.org/grids/g/django-rest-framework/
 
+## Django transfert data
+
+https://www.shubhamdipt.com/blog/django-transfer-data-from-sqlite-to-another-database/ https://djangopackages.org/grids/g/django-rest-framework/
+
+https://swup.js.org/getting-started/reloading-javascript
+
+https://bosnadev.com/2015/12/15/allow-remote-connections-postgresql-database-server/
+
+https://coderwall.com/p/mvsoyg/django-dumpdata-and-loaddata
+
+https://www.digitalocean.com/community/tutorials/how-to-use-postgresql-with-your-django-application-on-ubuntu-14-04
